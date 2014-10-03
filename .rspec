@@ -1,4 +1,4 @@
---color
 --format doc
+--color
 --order default
 --require spec_helper
